@@ -1,0 +1,79 @@
+person det
+bicycle $12
+car $8000
+motorcycle $4000
+airplane $1200000
+
+
+
+boat $900000 
+traffic light $700
+
+0
+0
+0
+bench $45
+apple $2
+
+dog not det
+
+
+
+
+
+
+
+umbrella old not det
+handbag old not det
+umbrella $22
+
+
+
+
+handbag $12
+
+baseball bat not det
+baseball glove not det
+ball $5
+surfboard not det
+tennis racket old not det
+
+skateboard $14
+cup old not det
+tennis racket $7
+knife old not det
+spoon old not det
+bowl old not det
+cup $9
+apple old not det
+knife $11
+spoon $5
+bowl $3
+carrot $9
+hot dog not det
+pizza not det
+orange $17
+cake $100
+chair old not det
+couch old not det
+potted plant old not det
+donut $33
+orange $17
+chair $55
+couch $39
+potted plant $22
+bed $80
+remote not det
+keyboard $56
+
+
+
+
+
+laptop $1000
+
+tv remote $9
+keyboard 2 $56
+smart phone det $2000
+
+

@@ -1,0 +1,80 @@
+person 20$
+bicycle 80$
+car 650$
+motorbike 40$
+aeroplane 850$
+
+
+
+boat 400$
+boat2
+
+
+dog1 69$
+
+
+dog2 46$
+
+
+
+
+
+umbrella 66$
+
+backpack 27$
+
+
+suitcase 55$
+
+abble 46$
+
+tennis ball 3$
+#actual ball
+
+
+#skateboard T1 20$
+skateboard T2 20$
+tennis racket 98$
+
+
+wine glass 35$
+cup 22$
+fork not so good
+knife 9$
+spoon 3$
+bowl 0$
+banana 2$
+apple 8$
+
+orange 17$
+broccoli 98$
+carrot 0.1$
+hot dog 5$
+pizza 2.3$
+donut 0.69$
+cake  1.44$
+chair 4$
+sofa 9$
+pottedplant 1$
+bed 40$
+
+
+
+pizza 2$
+remote
+keyboard1
+laptop
+
+
+keyboard2 28$
+keyboard3 11$
+
+microwave 35$
+
+
+
+
+
+
+
+
